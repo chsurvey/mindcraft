@@ -37,7 +37,7 @@
     },
     "overrides": {
         "canvas": "^3.1.0",
-        "gl": "^8.1.6"
+        "gl": "^9.0.0-rc.9"
     },
     "scripts": {
         "postinstall": "unzip -o patches/large-patches.zip -d patches/ && patch-package",
